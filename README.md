@@ -13,3 +13,9 @@ This app predicts the price of a used car based on input features.
 ## How to Run Locally
 pip install -r requirements.txt  
 streamlit run app.py
+
+
+## Tech Stack
+- Python
+- Scikit-learn (XGBoost)
+- Streamlit
